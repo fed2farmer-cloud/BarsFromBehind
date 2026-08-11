@@ -1,0 +1,4 @@
+PASS: index.html parsed successfully.
+PASS: app.js demo manager credentials present.
+PASS: stylesheet present.
+PASS: static package requires no build step.
