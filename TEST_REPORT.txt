@@ -1,4 +1,13 @@
-PASS: index.html parsed successfully.
-PASS: app.js demo manager credentials present.
-PASS: stylesheet present.
-PASS: static package requires no build step.
+Bars From Behind v1.1 Test Report
+
+PASS — index.html closes html
+PASS — Supabase CDN included
+PASS — config.js included
+PASS — account portal included
+PASS — app.js JavaScript syntax
+PASS — config.js JavaScript syntax
+PASS — RLS enabled
+PASS — 10 launch cities seeded
+PASS — manager expiry enforced
+
+Overall: PASS
